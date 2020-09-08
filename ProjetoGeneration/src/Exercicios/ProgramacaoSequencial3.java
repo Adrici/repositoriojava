@@ -6,7 +6,6 @@ public class ProgramacaoSequencial3 {
 
 	public static void main(String[] args) {
 		/*
-		 * 
 		 * Faça um algoritmo que leia o tempo de duração de um evento em uma
 		 * fábrica expressa em segundos e mostre-o expresso em horas, minutos
 		 * e segundos, exiba o nome do usuario no momento.
