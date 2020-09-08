@@ -1,0 +1,44 @@
+package Exercicios;
+
+import java.util.Scanner;
+
+public class ProgramacaoSequencial3 {
+
+	public static void main(String[] args) {
+		/*
+		 * / *
+		 * Faça um algoritmo que leia o tempo de duração de um evento em uma
+		 * fábrica expressa em segundos e mostre-o expresso em horas, minutos
+		 * e segundos, exiba o nome do usuario no momento.
+
+		cadeia nomeUsuario;
+		inteiro duracaoSegundos, hora, minuto, segundos;
+
+		escreva ("Digite a duração do evento em segundos:");
+		leia (duracaoSegundos);
+
+		hora = duracaoSegundos / 3600; // 1 hora em segundos é 3600 segundos
+		minuto = (duracaoSegundos% 3600) / 60 // resto da divisão da hora e divide por 1 minuto
+		= (duracaoSegundos% 3600)% 60)
+		escreva ("O evento durou", hora, "h,", minuto, "me", segundos, "segundo (s)");
+		 */
+		
+		String nome;
+		double segundos, hora, minuto, duracaoSegundos;
+		
+		Scanner kb = new Scanner (System.in);
+		System.out.println("Escreva seu nome: ");
+		nome = kb.next();
+		System.out.println("Escreva a duração do evento em segundos: ");
+		duracaoSegundos = kb.nextInt();
+		hora = duracaoSegundos/3600;
+		minuto= (duracaoSegundos% 3600) / 60;
+		System.out.printf("Olá, %s", ". A duração do evento foi de: " , "%d, hora", "%d, minutos", "e", "%d, segundos", nome, hora, minutos, segundos;
+		
+			
+		kb.close(); 
+		
+
+	}
+
+}

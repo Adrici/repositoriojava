@@ -1,0 +1,21 @@
+package Exercicios;
+
+public class ProgramacaoSequencial1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		 * 1. Faça um sistema que leia a idade de uma 
+		 * pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias. 
+		 */
+		
+		/*
+		 * 		inteiro var1
+				escreva ("Informe sua idade em anos:");
+				leia (var1);
+				escreva ("Sua idade em dias é:", var1 * 12 * 365);
+		*/
+
+	}
+
+}
