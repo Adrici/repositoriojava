@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercícios_Programação_Sequencial;
 import java.util.Scanner;
 
 public class ProgramacaoSequencial7 {
