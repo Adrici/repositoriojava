@@ -1,8 +1,8 @@
-package Exercicios_Lacos_Condicionais;
+package Exercícios_Lacos_Condicionais;
 
 import java.util.Scanner;
 
-public class LacoCondicional4 {
+public class LacoCondicionais4 {
 
 	public static void main(String[] args) {
 		/*
@@ -28,10 +28,7 @@ public class LacoCondicional4 {
 			}
 		}else {
 			System.out.println("Este número é impar.");
-			if(verdadeiro) {
-				System.out.println("Este número ao quadrado é: " + Math.pow(numero,2));
-			}
-		} 
+		}
 		kb.close();
 		
 

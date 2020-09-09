@@ -29,7 +29,7 @@ public class LacoCondicional4 {
 		}else {
 			System.out.println("Este número é impar.");
 			if(verdadeiro) {
-				System.out.println("Este número ao quadrado é: " + Math.pow(numero,2));
+				System.out.println(Math.pow(numero,2));
 			}
 		} 
 		kb.close();
