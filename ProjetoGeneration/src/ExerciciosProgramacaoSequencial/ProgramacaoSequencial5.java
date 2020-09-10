@@ -1,4 +1,4 @@
-package Exercicios_Programação_Sequencial;
+package ExerciciosProgramacaoSequencial;
 
 import java.util.Scanner;
 
