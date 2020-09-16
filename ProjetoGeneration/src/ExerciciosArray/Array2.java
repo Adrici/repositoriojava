@@ -51,7 +51,7 @@ public class Array2 {
 		System.out.printf("\nO total %d de números ímpares é", contador);
 		System.out.printf("\nZero é neutro. O total de 0s inseridos é: %d", neutro);
 		
-		kb.close();
+		kb.close(); 
 	}
 
 }
