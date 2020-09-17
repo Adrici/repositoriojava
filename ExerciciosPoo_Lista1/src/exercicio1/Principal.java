@@ -31,7 +31,7 @@ public class Principal {
 		consumidor.nomeCompleto();
 		consumidor.pedidoLanche(); 
 		consumidor.custoPedido();   
-		
+		 
  
 	}
 

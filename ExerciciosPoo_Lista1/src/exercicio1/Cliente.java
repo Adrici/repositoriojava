@@ -3,7 +3,7 @@ package exercicio1;
 public class Cliente 
 {
 	public String nomeCliente; 
-	public String sobreNomeCliente;
+	public String sobreNomeCliente; 
 	public String pedidoCliente;
 	public double valorPedidoCliente;
 	

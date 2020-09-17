@@ -12,7 +12,7 @@ public class Aviao {
 	}
 	public void capacidade() {
 		int capacidade = capacidadeAviao;
-		System.out.printf("\nCapacidade de passageiros suportada pela aeronave: %s", capacidade);
+		System.out.printf("\nCapacidade de passageiros suportada pela aeronave: %d", capacidade);
 	}
 	public void pais() {
 		String pais = paisOrigemAviao; 
